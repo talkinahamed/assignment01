@@ -119,6 +119,7 @@ nav div .btn:hover {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-bottom: 16px;
 }
 
 #banner .Green:hover {
@@ -140,7 +141,7 @@ nav div .btn:hover {
     color: #0a2f42;
 }
 
-/* page three start */
+/* page two start */
 
 #Note{
     padding-top: 100px;
@@ -196,7 +197,7 @@ nav div .btn:hover {
     color: #627382;
 }
 
-/* page four start */
+/* page three start */
 
 #solution{
     padding: 120px ;
@@ -256,3 +257,43 @@ nav div .btn:hover {
     color: #001931;
     font-weight: 600;
 }
+
+/* page four start  */
+
+#early-access{
+    padding: 2px 120px 120px 120px;
+}
+
+.access-container{
+    width: 85%;
+    max-width: 1360px;
+    height: 384px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F7F6F2;
+}
+
+.access-container h1{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 16px;
+}
+
+.access-container p{
+    font-size: 16px;
+    color: #627382;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.access-container .Green{
+    color: #FFFFFF;
+    padding: 16.5px 21px 16.5px 16px;
+    background-color: #469165;
+    margin-right: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 16px; 
+}
+
