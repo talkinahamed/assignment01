@@ -297,3 +297,51 @@ nav div .btn:hover {
     margin-bottom: 16px; 
 }
 
+/* footer start  */
+
+footer{
+    padding: 120px 120px 30px 120px;
+    background-color: #001931;
+}
+
+.footer-container{
+    max-width: 1360;
+    margin: 0 auto;
+    
+}
+
+.upper{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.upper img{
+    width: 139px;
+}
+
+.links h3{
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+    font-weight: 200;
+}
+
+.links a{
+    align-items: center;
+    width: 20px;
+    height: 20px;
+}
+
+.lower hr{
+    opacity: 0.1;
+    margin-bottom: 30px;
+}
+
+.lower p{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: small;
+}
